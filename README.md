@@ -1,3 +1,3 @@
 SociSphere
 
-![Socisphere](<Screenshot (855).png>)
+![Socisphere](<Screenshot (855).png>) 
