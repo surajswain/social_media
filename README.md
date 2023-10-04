@@ -1,3 +1,3 @@
-##SOCIAL MEDIA WEBAPP - SociSphere
+SociSphere
 
 ![Socisphere](<Screenshot (855).png>)
